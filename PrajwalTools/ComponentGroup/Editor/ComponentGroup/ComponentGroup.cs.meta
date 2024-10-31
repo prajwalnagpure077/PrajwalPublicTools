@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: caa2e86bc5e7a36429acde9e89ddfd3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - componentGroupSceneObjectSO: {fileID: 11400000, guid: 8ed022a36f29f2f43996bd25c297343a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
